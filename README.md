@@ -4,6 +4,7 @@ A tweaked INI file to help the game run better on a low-spec machine
 
 ## Usage
 apply the new config: `./setup.sh`
+
 revert to the old config: `./revert.sh`
 
 ## Sources
